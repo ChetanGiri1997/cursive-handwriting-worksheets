@@ -1,0 +1,5 @@
+.customization-panel {
+  display: flex;
+  flex-direction: column;
+  /* Additional styling */
+}
